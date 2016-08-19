@@ -1,3 +1,5 @@
+#=> Creates new array which will receive movies and ratings
+
 movies = {
   Memento: 3
 }
